@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://uuphishio.leeweaverwatercolors.com/sitemap.xml
